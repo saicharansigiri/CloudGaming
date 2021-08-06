@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "553929720598",
+    "project_id": "intern-6290e",
+    "storage_bucket": "intern-6290e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553929720598:android:d2180dcb2fce39397b4637",
+        "android_client_info": {
+          "package_name": "com.example.cloudgaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553929720598-o8nquh45djtnjiinehbefgp490k3fi7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cloudgaming",
+            "certificate_hash": "b70a500797827f91568630cfda49296268ccf1fb"
+          }
+        },
+        {
+          "client_id": "553929720598-30ige5uc576gg6kv32a1g12csbpt1tpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjIEw7aFZHGgxoFCFOKrj4Q4oaQaWaBXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553929720598-30ige5uc576gg6kv32a1g12csbpt1tpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
